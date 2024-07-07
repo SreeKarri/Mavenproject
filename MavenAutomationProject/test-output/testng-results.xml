@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T11:49:56 EDT" name="Default suite" finished-at="2024-07-05T11:50:39 EDT" duration-ms="42996">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T11:49:56 EDT" name="Default test" finished-at="2024-07-05T11:50:39 EDT" duration-ms="42996">
+      <class name="amazon.TestCase_5">
+        <test-method signature="Tc4()[pri:0, instance:amazon.TestCase_5@619713e5]" started-at="2024-07-05T11:49:56 EDT" name="Tc4" finished-at="2024-07-05T11:50:39 EDT" duration-ms="42966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc4 -->
+      </class> <!-- amazon.TestCase_5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
